@@ -1,7 +1,8 @@
 # Twitter-clone
 A sample web page of Twitter Clone Let’s make simple Twitter. Users can post tweets and see everyone’s them. To make the project simple, we do not have a sign/login function. So there are not user accounts and follow function. You can challenge after you finish the course.
 # Screenshot
-![Screenshot (2)](https://user-images.githubusercontent.com/117327095/205421949-1373d86a-6b71-4a1a-bae4-27f9c5126ef1.png)
+![Screenshot (2)]![2023-01-23](https://user-images.githubusercontent.com/107019478/214215073-33c4ef37-7888-48bc-8721-ba33065a4639.png)
+
 
 
 # Technologies Used
@@ -14,7 +15,8 @@ A sample web page of Twitter Clone Let’s make simple Twitter. Users can post t
 # User Story
 * User can post tweets.
 * Users canedit tweets.
-* Users can delete tweets.
+* Users can delete tweets.![Uploading 2023-01-23.png…]()
+
 * Users can send a like to a tweet
 
 
